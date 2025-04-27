@@ -18,7 +18,6 @@ const Home = () => {
       <StepsSection />
       <DevicesSection />
       <SubscriptionSection />
-      <CallToActionSection />
       <FeaturesSection />
       <SocialProofSection />
       
